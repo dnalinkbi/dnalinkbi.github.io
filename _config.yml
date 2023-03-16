@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: No pain, No gain
-email: innerpyg@gmail.com
-author: innerpyg
+title: DNALink blog
+email: dnalinkbi@gmail.com
+author: dnalinkbi
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
